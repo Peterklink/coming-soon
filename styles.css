@@ -206,4 +206,6 @@ html, body, .main{
       max-width: 300px;
       padding-bottom: 50px;
     }
+    #submit-reaction{
+      padding-bottom: 20px;
   }
